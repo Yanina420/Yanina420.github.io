@@ -3,6 +3,7 @@
 }
 body {
 	font-family:  'Roboto', sans-serif;
+	background-image: url(Images/patt.png);
 }
 .container {
 	width: 1170px;
@@ -29,5 +30,9 @@ body {
 	content: "";
 	clear: both;
 	display: block;
+}
+.header {
+	background: rgba(255,255,255,0.75);
+	padding: 25px 0;
 }
 
